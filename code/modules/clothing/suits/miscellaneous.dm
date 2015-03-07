@@ -425,3 +425,9 @@
 	desc = "Smells faintly of freedom."
 	icon_state = "libertycoat"
 	item_state = "libertycoat"
+
+/obj/item/clothing/suit/maidapron
+	name = "Apron"
+	desc = "Simple white apron."
+	icon_state = "maidapron"
+	item_state = "maidapron"

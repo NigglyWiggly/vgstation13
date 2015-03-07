@@ -84,3 +84,38 @@
 	item_state = "bmgloves"
 	_color="bmgloves"
 	species_fit = list("Vox")
+
+/obj/item/clothing/gloves/megagloves
+	desc = "Uncomfortably bulky armored gloves."
+	name = "DRN-001 Gloves"
+	icon_state = "megagloves"
+	item_state = "megagloves"
+	species_fit = list("Vox")
+
+/obj/item/clothing/gloves/protogloves
+	desc = "Funcionally identical to the DRN-001 model's, but in red!"
+	name = "Prototype Gloves"
+	icon_state = "protogloves"
+	item_state = "protogloves"
+	species_fit = list("Vox")
+
+/obj/item/clothing/gloves/megaxgloves
+	desc = "An upgrade to the DRN-001's gauntlets, retains the uncomfortable armor, but comes with white gloves!"
+	name = "Maverick Hunter gloves"
+	icon_state = "megaxgloves"
+	item_state = "megaxgloves"
+	species_fit = list("Vox")
+
+/obj/item/clothing/gloves/volnuttgloves
+	desc = "Bulky armored gloves, their modular design allows for easy swapping of equipment."
+	name = "Digouter Gloves"
+	icon_state = "volnuttgloves"
+	item_state = "volnuttgloves"
+	species_fit = list("Vox")
+
+/obj/item/clothing/gloves/joegloves
+	desc = "Large grey gloves, very similar to the Prototype's."
+	name = "Sniper Gloves"
+	icon_state = "joegloves"
+	item_state = "joegloves"
+	species_fit = list("Vox")

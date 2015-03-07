@@ -453,3 +453,59 @@
 	icon_state = "libertyshirt"
 	item_state = "libertyshirt"
 	_color = "libertyshirt"
+
+/obj/item/clothing/under/mega
+	name = "DRN-001 Suit"
+	desc = "The original. Simple, yet very adaptable."
+	icon_state = "mega"
+	item_state = "mega"
+	_color = "mega"
+
+/obj/item/clothing/under/proto
+	name = "The Prototype Suit"
+	desc = "Even robots know scarves are the perfect accessory for a brooding rival."
+	icon_state = "proto"
+	item_state = "proto"
+	_color = "proto"
+
+/obj/item/clothing/under/megax
+	name = "Maverick Hunter regalia"
+	desc = "The best outfit for taking out rogue borgs."
+	icon_state = "megax"
+	item_state = "megax"
+	_color = "megax"
+
+/obj/item/clothing/under/volnutt
+	name = "Digouter Suit"
+	desc = "Replica of a digger's suit that was found abandoned on an ancient space colony."
+	icon_state = "volnutt"
+	item_state = "volnutt"
+	_color = "volnutt"
+
+/obj/item/clothing/under/joe
+	name = "The Sniper Suit"
+	desc = "Mass produced combat robots with a rather unfitting name."
+	icon_state = "joe"
+	item_state = "joe"
+	_color = "joe"
+
+/obj/item/clothing/under/roll
+	name = "DRN-002 Dress"
+	desc = "A simple red dress, the good doctor's second robot wasn't quite as exciting as the first."
+	icon_state = "roll"
+	item_state = "roll"
+	_color = "roll"
+
+/obj/item/clothing/under/maid
+	name = "Maid outfit"
+	desc = "Perfect for lusty aliens and desperate weeaboos."
+	icon_state = "maid"
+	item_state = "maid"
+	_color = "maid"
+
+/obj/item/clothing/under/darkholme
+	name = "The Darkholme"
+	desc = "Fuck you."
+	icon_state = "darkholme"
+	item_state = "darkholme"
+	_color = "darkholme"
