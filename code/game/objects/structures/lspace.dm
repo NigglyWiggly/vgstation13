@@ -1,3 +1,4 @@
+//L-Space wall; Remember to force Deity Link to get these to drop a couple of books from the library archives when destroyed
 
 /obj/structure/lspacewall
 	name = "stack of books"
